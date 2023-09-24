@@ -1,0 +1,121 @@
+.section1{
+    background-image: url('Image/coding.png.png');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    height: 617px;
+}
+
+.section1 h1{
+    color: white;
+    padding-top: 52px;
+    padding-left: 7px;
+}
+
+.section1 p{
+    color: #dee2e6;
+    padding-left: 10px;
+}
+
+.section1 button{
+    margin-left: 12px;
+    color: #ffffff;
+    font-family: ui-serif;
+    padding-left: 12px;
+    padding-right: 12px;
+    background-color: turquoise;
+    border-style: none;
+    font-weight: bolder;
+}
+
+.section1 button:hover{
+    background-color: red;
+}
+
+.about{
+    margin: 4em 0;
+    padding: 1em;
+    position: relative;
+}
+
+.about h1{
+    color:#F97300;
+    margin: 2em;
+    margin-left: 138px;
+}
+
+.about img{
+    height: 63%;
+       width: 75%;
+       border-radius: 50%;
+       margin-left: 58px;
+}
+
+.about span{
+    display: block;
+    color: #888;
+    position: absolute;
+    left: 120px;
+}
+
+.about .desc{
+    padding: 2em;
+    border-left:4px solid #10828C;
+}
+
+.about .desc h3{
+    color: #10828C;
+}
+
+.about .desc p{
+    line-height:2;
+    color:#888;
+}
+
+.contact-form{
+    margin: 6em 0;
+    position: relative;  
+}
+   
+.contact-form h1{
+    padding:2em 1px;
+    color: #F97300; 
+}
+
+.contact-form .right{
+    max-width: 600px;
+}
+
+.contact-form .right .btn-secondary{
+    background:  #F97300;
+    color: #fff;
+    border:0;
+}
+
+.contact-form .right .form-control::placeholder{
+    color: #888;
+    font-size: 16px;
+}
+
+.section3 h1{
+    color: #7fb3ff;
+}
+
+.section4{
+    color: #7fb3ff;
+}
+
+.section5{
+    color: #7fb3ff;
+}
+
+footer{
+    padding-top: 2px;
+    padding-bottom: 1px;
+    background-color: aliceblue;
+}
+
+.navbar{
+    background-color: #e3f2fd;
+}
+   
