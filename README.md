@@ -1,2 +1,4 @@
-# OIBSIP-2
-Task 2 Web Development And Designing
+# OIBSIP
+Web Development And Designing
+Level 1
+Task 2
